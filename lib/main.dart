@@ -67,7 +67,7 @@ class _HomePageState extends State<HomePage> {
           decoration: InputDecoration(
             labelText: "Nova Tarefa",
             labelStyle: TextStyle(
-              color: Colors.white,
+              color: Colors.red,
             ),
           ),
         ),
