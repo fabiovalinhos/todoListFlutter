@@ -1,6 +1,6 @@
 # Classic todo list
 
-A new Flutter project.
+A new Flutter project by André Baltieri
 
 ## Getting Started
 
